@@ -1,0 +1,1 @@
+directory with various shell permission scripts
