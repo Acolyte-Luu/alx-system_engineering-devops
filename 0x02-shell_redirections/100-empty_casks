@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name ".*" -type d,f  -empty | cut -d\  -f9
+find -empty | rev | cut -d\  -f1 | rev
