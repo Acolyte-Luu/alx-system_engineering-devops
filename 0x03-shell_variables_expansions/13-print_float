@@ -1,2 +1,3 @@
 #!/bin/bash
-printf '2%f'$NUM'\n'e-2
+printf $NUM'%.2f\n'
+
