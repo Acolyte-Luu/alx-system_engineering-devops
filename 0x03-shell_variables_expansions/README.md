@@ -1,1 +1,1 @@
-Tasks exploring shell variables, initializations and expansions
+variables,expansions and inits shell
